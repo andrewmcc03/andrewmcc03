@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying Software Engineering at Ulster University and aim to strengthen my skills in programming and back-end software development.
 
 - 📫 How to reach me:
+
 LinkedIn: /andrewmcc03
 
 <!---
