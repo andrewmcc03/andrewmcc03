@@ -4,7 +4,7 @@
 
 - 📫 How to reach me:
 
-LinkedIn: /andrewmcc03
+     LinkedIn: /andrewmcc03
 
 <!---
 andrewmcc03/andrewmcc03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
